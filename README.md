@@ -1,4 +1,4 @@
-# Hi there, I’m David Sugden! 👋
+# Hi there, I’m David! 👋
 
 I'm a **Full Stack Developer** with a passion for crafting elegant web and mobile applications. I thrive on solving tricky problems and turning them into intuitive features. I believe that a positive attitude and sense of humor are just as important as technical skills when it comes to building great products.
 
