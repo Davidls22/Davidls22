@@ -47,7 +47,6 @@ I'm a **Full Stack Developer** with a passion for crafting elegant web and mobil
 
 - **Website**: [davidsugdevs.com](https://www.davidsugdevs.com)  
 - **LinkedIn**: [linkedin.com/in/davidls22](https://www.linkedin.com/in/davidls22/)  
-- **GitHub**: [github.com/Davidls22](https://github.com/Davidls22/)  
 - **Email**: [david-sugden1@hotmail.co.uk](mailto:david-sugden1@hotmail.co.uk)
 
 <!--
