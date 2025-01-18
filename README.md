@@ -2,13 +2,6 @@
 
 I'm a **Full Stack Developer** with a passion for crafting elegant web and mobile applications. I thrive on solving tricky problems and turning them into intuitive features. I believe that a positive attitude and sense of humor are just as important as technical skills when it comes to building great products.
 
-- 📍 **Location**: London
-- 🌐 [**Website**](https://www.davidsugdevs.com)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/davidls22/)
-- 📫 **Email**: [david-sugden1@hotmail.co.uk](mailto:david-sugden1@hotmail.co.uk)
-
----
-
 ## ✨ Summary
 
 - Skilled with **React / React Native**, **TypeScript**, **Laravel**, **Node**, **PostgreSQL**, and more.
@@ -20,7 +13,6 @@ I'm a **Full Stack Developer** with a passion for crafting elegant web and mobil
 **Languages & Frameworks**  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
