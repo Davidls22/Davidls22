@@ -37,8 +37,8 @@ I'm a **Full Stack Developer** with a passion for crafting elegant web and mobil
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davidls22&show_icons=true&theme=react" alt="David's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidls22&layout=compact&theme=react" alt="Top Langs" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Davidls22&show_icons=true&theme=react&cacheBuster=1" alt="David's GitHub stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidls22&layout=compact&theme=react" alt="Top Langs" height="160"/>
 </p>
 
 ---
