@@ -43,12 +43,6 @@ I'm a **Full Stack Developer** with a passion for crafting elegant web and mobil
 
 ---
 
-## 🔗 Get in Touch
-
-- **Website**: [davidsugdevs.com](https://www.davidsugdevs.com)  
-- **LinkedIn**: [linkedin.com/in/davidls22](https://www.linkedin.com/in/davidls22/)  
-- **Email**: [david-sugden1@hotmail.co.uk](mailto:david-sugden1@hotmail.co.uk)
-
 <!--
 **Davidls22/Davidls22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
