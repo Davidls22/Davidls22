@@ -4,7 +4,7 @@ I'm a **Full Stack Developer** with a passion for crafting elegant web and mobil
 
 ## ✨ Summary
 
-- Skilled with **React / React Native**, **TypeScript**, **Laravel**, **Node**, **PostgreSQL**, and more.
+- Skilled with **React / React Native**, **TypeScript**, **Next** **Laravel**, **Node**, **PostgreSQL**, and more.
 - Experience with **Azure** for cloud solutions, containerization with **Docker**, and establishing efficient CI/CD pipelines.
 - Enjoys collaborating with teams, presenting data-driven proposals, and aligning product improvements with future client needs.
 
@@ -18,6 +18,7 @@ I'm a **Full Stack Developer** with a passion for crafting elegant web and mobil
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 - ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 
 **Databases & Hosting**  
