@@ -4,7 +4,7 @@ I'm a **Full Stack Developer** with a passion for crafting elegant web and mobil
 
 ## ✨ Summary
 
-- Skilled with **React / React Native**, **TypeScript**, **Next** **Laravel**, **Node**, **PostgreSQL**, and more.
+- Skilled with **React / React Native**, **TypeScript**, **Next**, **Laravel**, **Node**, **PostgreSQL**, and more.
 - Experience with **Azure** for cloud solutions, containerization with **Docker**, and establishing efficient CI/CD pipelines.
 - Enjoys collaborating with teams, presenting data-driven proposals, and aligning product improvements with future client needs.
 
