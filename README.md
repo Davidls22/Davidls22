@@ -56,7 +56,7 @@ I’m a Full-Stack Developer with expertise in **React**, **React Native**, **Ty
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Davidls22&theme=react" 
+    src="https://github-readme-streak-stats.vercel.app/?user=Davidls22&theme=react" 
     alt="GitHub Streak" 
     height="160"
   />
