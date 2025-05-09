@@ -54,12 +54,4 @@ I’m a Full-Stack Developer with expertise in **React**, **React Native**, **Ty
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=Davidls22&theme=react" 
-    alt="GitHub Streak" 
-    height="160"
-  />
-</p>
-
 ---
