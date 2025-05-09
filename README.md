@@ -41,8 +41,25 @@ I’m a Full-Stack Developer with expertise in **React**, **React Native**, **Ty
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Davidls22&show_icons=true&theme=react&cacheBuster=1" alt="David's GitHub stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidls22&layout=compact&theme=react" alt="Top Langs" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Davidls22&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars&rank_icon=github" 
+    alt="David's GitHub Stats" 
+    height="160"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidls22&layout=compact&theme=react&hide_progress=false" 
+    alt="Top Langs" 
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Davidls22&theme=react" 
+    alt="GitHub Streak" 
+    height="160"
+  />
 </p>
 
 ---
